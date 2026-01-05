@@ -1,3 +1,3 @@
 # myrepo
-this is my first repository
-Author Fatima Shakeel
+this is my first repository.
+Author: Fatima Shakeel
